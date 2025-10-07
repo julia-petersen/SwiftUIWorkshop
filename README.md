@@ -29,4 +29,13 @@ O usuário pode gerar, limpar e futuramente adicionar novas citações.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/juliapetersen/.git
+   git clone https://github.com/juliapetersen/SwiftUIWorkshop.git
+   
+2. Abra o projeto no Xcode
+3. Selecione um simulador (ex: iPhone 15)
+4. Execute com Run
+
+---
+
+## Autora 
+Desenvolvido por Júlia Petersen durante a oficina de Swift UI na STI Mackenzie em 06/10/2025.
